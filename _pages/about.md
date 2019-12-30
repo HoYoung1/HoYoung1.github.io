@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-AWS 서비스와 Python을 즐겨쓰는 개발자
+AWS 서비스와 Python을 즐겨 사용합니다.
