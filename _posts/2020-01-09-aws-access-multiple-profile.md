@@ -9,7 +9,7 @@ tags:
   - access
 ---
 
-![](/assets/2020-01-09-aws-access-multiple-profile_235106.png)
+![](/assets/2020-01-09-aws-access-multiple-profile_001139.png)
 
 ## 가정
 
