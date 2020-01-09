@@ -16,7 +16,7 @@ $ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgree
 
 찍어보면 다음과 같이 나옴
 
-![](../assets/log_194625.png)
+![](/assets/log_194625.png)
 
 굉장히 이쁘다
 하지만 칠 때 마다 저렇게 길게 칠수 없으므로 alias **lg** 로 global config를 해준다.
