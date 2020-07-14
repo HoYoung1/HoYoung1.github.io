@@ -9,6 +9,8 @@ tags:
   - access
 ---
 
+두 개의 프로필에 동시 접근하며 리소스를 사용해보자.
+
 ![](/assets/2020-01-09-aws-access-multiple-profile_001139.png)
 
 ## 가정
