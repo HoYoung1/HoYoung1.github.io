@@ -1,7 +1,4 @@
 # main links links
 main:
-  - title: "memo"
-    url: /memo/    
-        
   - title: "Blog Posts"
     url: /posts/
