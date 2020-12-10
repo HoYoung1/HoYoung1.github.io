@@ -20,7 +20,7 @@ AWS lambda를 사용하다 보면 `도대체 왜 처음에는 느릴까?` 라는
 1. 주기적으로 lambda를 실행시켜 warm 상태를 유지한다.
 1. Provisioned Concurrency를 사용한다.
 
-2019년 12월에 발표된 [Provisioned Concurrency를 사용하면 앞으로 cold start로 인해 골치를 썩을 필요는 없다. (또한 앞으로 warm 상태를 위해 주기적으로 lambda를 실행할 필요도 없다)
+2019년 12월에 발표된 Provisioned Concurrency를 사용하면 앞으로 cold start로 인해 골치를 썩을 필요는 없다. (또한 앞으로 warm 상태를 위해 주기적으로 lambda를 실행할 필요도 없다)
 
 그럼 도대체 왜 
 - cold start 라는 게 있는거고 
