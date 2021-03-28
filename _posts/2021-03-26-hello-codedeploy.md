@@ -43,7 +43,7 @@ CDK로 후딱 돌려보자. 소스코드는 [여기]()에 있다.
 $ git clone https://github.com/HoYoung1/HelloCodedeploy.git
 
 # lib/config.ts 파일 본인 계정에 맞춰 수정 (아이디넣기, 리전넣기)
-
+$ cdk bootstrap
 $ cdk list
 $ cdk deploy 
 ```
