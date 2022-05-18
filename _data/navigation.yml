@@ -1,4 +1,7 @@
 # main links links
 main:
-  - title: "Blog Posts"
+  - title: "IT"
     url: /posts/
+
+  - title: "Talks"
+    url: /talks/
