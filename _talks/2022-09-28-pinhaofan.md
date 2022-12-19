@@ -3,7 +3,7 @@ title: "pinhaofan"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-28-pinhaofan
-venue: 메이투안 핀하오판
+venue: 집
 date: 2022-09-28
 location: "Xinwu District, Wuxi, Jiangsu, China"
 ---
