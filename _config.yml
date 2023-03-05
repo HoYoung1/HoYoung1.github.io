@@ -82,9 +82,11 @@ analytics:
 # Site Author
 author:
   name             : "HoYoung"
-  avatar           : "profile.png"
+  # avatar           : "profile.png"
+  avatar           : 
   bio              : "Software Engineer를 꿈꾸며 열공"
-  location         : "Wuxi, China"
+  # location         : "Wuxi, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
