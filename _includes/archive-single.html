@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'memo' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> Type : {{ post.type }}, Date: {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
