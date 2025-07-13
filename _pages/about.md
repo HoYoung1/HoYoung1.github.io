@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-AWS 서비스와 Python을 즐겨 사용합니다.
+AWS와 Python을 즐겨 사용했었고, 현재는 중국에서 반도체 수율 향상을 위한 시스템 운영중.
