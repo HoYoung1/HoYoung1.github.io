@@ -13,5 +13,10 @@ var addressPoints = [
     "Shangcheng District, Hangzhou, Zhejiang, China",
     30.2293751,
     120.1931683
+  ],
+  [
+    "上海世博展览馆 (Shanghai World Expo Exhibition & Convention Center)",
+    31.183552,
+    121.489571
   ]
 ];

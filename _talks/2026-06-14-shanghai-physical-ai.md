@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2026-06-13-shanghai-physical-ai
 venue: 上海
 date: 2026-06-13
-location: "Shanghai, China"
+location: "上海世博展览馆 (Shanghai World Expo Exhibition & Convention Center)"
 ---
 
 Physical AI in China
